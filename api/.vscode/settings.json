@@ -1,0 +1,5 @@
+{
+  "appService.preDeployTask": "publish-release",
+  "appService.deploySubpath": "bin\\Release\\net8.0\\publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/c6c623da-5016-4a31-8ff6-990a326dceab/resourceGroups/fpt-devteam/providers/Microsoft.Web/sites/koiauction"
+}
